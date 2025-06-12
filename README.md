@@ -13,4 +13,4 @@ This program replaces runtime.exe, only using certain parts of it's functions to
 **In my usecase with a 9800X3D it dropped a whole 12% off my CPU usage (an entire core)** to not run the official bad inference models. RAM usage dropped by around 300-400 MB, but because runtime.exe is very variable in use it could be less or more (it probably has a memory hole somewhere?).
 
 ### What is lost over runtime.exe?
-**Every single official tracker feature** which basically amounts to you now longer having access to the absolutely rancid dynamic foveation that wasn't fast enough anyways and direct access to tracker values (which also weren't great... or even working in 80% of cases).
+**Every single official tracker feature** which basically amounts to you no longer having access to the absolutely rancid dynamic foveation that wasn't fast enough anyways and direct access to tracker values (which also weren't great... or even working in 80% of cases).
