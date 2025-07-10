@@ -7,6 +7,9 @@
 ## Usage
 To start using PiCamLite go to the [Releases](https://github.com/FynnleyNeko/PiCamLite/releases/latest) download the zip and start **picamlite.exe**!
 
+**For developers:**
+I maintain a sister project to this in the form of a library called [PiCamEmbedded](https://github.com/FynnleyNeko/PiCamEmbedded/). It's only 10MB added to your app and allows you to control the tracker and access frames completely standalone. *Have fun integrating the Droolon into whatever you can think of!*
+
 **Configuration is now entirely accessible within the UI**, but *you can still use config.ini* if you really want:
 ```
 [STREAM]
